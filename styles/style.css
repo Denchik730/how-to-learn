@@ -22,25 +22,10 @@
 	/* выше установили ограничения для секции */
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-	height: 568px;
-	width: 568px;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-	width: 200px;
-	color: white;
-	margin-right: 0;
-	margin-top: 80px;
-}
-
 .logo {
 	width: 228px;
 	height: 32px;
 }
-
 
 .logo_place_header {
 	position: absolute;
@@ -101,7 +86,6 @@
 }
 
 /* Content */
-
 .content {
 	position: relative;
 }
@@ -152,7 +136,6 @@
 }
 
 /* Digits */
-
 .digits {
 	margin-top: 100px;
 }
@@ -209,7 +192,6 @@
 }
 
 /* Feynman */
-
 .feynman {
 	position: relative;
 	margin-top: 100px;
@@ -251,7 +233,6 @@
 }
 
 /* Kaufman */
-
 .kaufman {
 	position: relative;
 	padding: 90px 0 90px 0;
@@ -272,7 +253,8 @@
 .table__cell_theme_dark {
 	width: 200px;
   margin-top: 80px;
-
+	color: white;
+	margin-right: 0;
 }
 
 .kaufman__triangle {
@@ -285,7 +267,6 @@
 }
 
 /* Footer */
-
 .footer {
   min-height: 350px;
 	padding: 60px 0 40px 0;
