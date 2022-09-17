@@ -213,21 +213,11 @@
 .feynman {
 	position: relative;
 	margin-top: 100px;
-	background: url(../images/feynman.png) left bottom no-repeat;
-	background-size: 867px 637px;
+  background: #f2f2f2 url(../images/feynman.png) left bottom no-repeat;
+  background-size: 867px 637px;
 	min-height: 890px;
 }
 
-.feynman:after {
-	position: absolute;
-	content: '';
-	left:0;
-	top:0;
-	width: 100%;
-	height: 100%;
-	background-color: #f2f2f2;
-	z-index: -1;
-  }
 
 .feynman__title {
 	width: 648px;
