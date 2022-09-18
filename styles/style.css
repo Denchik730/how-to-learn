@@ -76,6 +76,7 @@
 	bottom: 0px;
 	right: 0px;
 	z-index: 1;
+  object-fit: cover;
 }
 
 .header__square-pic {
@@ -171,11 +172,13 @@
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
+  row-gap: 60px;
+  margin-top: 60px;
+
 }
 
 .table__cell {
 	width: 250px;
-	margin-top: 60px;
 	z-index: 1;
 }
 
@@ -244,7 +247,7 @@
 	padding: 90px 0 90px 0;
 	background-color: #1f1f1f;
 	overflow: hidden;
-	z-index: -2;
+	z-index: 0;
 }
 
 .section-title_theme_dark {
@@ -255,10 +258,13 @@
 	color: white;
 }
 
+.table_theme_dark {
+  row-gap: 80px;
+  margin-top: 80px;
+}
 
 .table__cell_theme_dark {
 	width: 200px;
-  margin-top: 80px;
 	color: white;
 	margin-right: 0;
 }
