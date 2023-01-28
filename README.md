@@ -1,6 +1,6 @@
 # Проект "Научиться учиться" ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ------
-## Первый взгляд:
+## Превью:
 ![how-to-learn](https://user-images.githubusercontent.com/102176847/215267803-244c25db-a4b8-4d2e-91c0-85c94ee94aab.gif)
 ## Описание: данный проект решает такие проблемы современности как:
 * Проблема популярности обучения
