@@ -16,7 +16,7 @@
 * Анимации, транформации, плавность переходов, keyframes
 * Файловая структура проекта по правилам Nested БЭМ
 ### Первый взгляд:
-https://user-images.githubusercontent.com/102176847/215266988-5d440278-ca60-4a75-9938-7127db0c9d19.mp4
+![how-to-learn](https://user-images.githubusercontent.com/102176847/215267803-244c25db-a4b8-4d2e-91c0-85c94ee94aab.gif)
 ### Инструкция  по использованию:
 #### Первый способ:
 1. Клонировать репозиторий на компьютер, через терминал командой `git clone https://github.com/Denchik730/how-to-learn.git`
